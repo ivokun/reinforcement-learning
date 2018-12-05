@@ -1,15 +1,18 @@
 # -*- coding: utf-8 -*-
 import random
+import numpy as np
 from environment import GraphicDisplay, Env
 
 
 class PolicyIteration:
     def __init__(self, env):
+        # self.random_value = np.random.rand()
+        # self.random_policy = np.random.dirichlet(np.ones(4), size=1)
         self.env = env
         # 2-d list for the value function
         self.value_table = [[0.0] * env.width for _ in range(env.height)]
         # list of random policy (same probability of up, down, left, right)
-        self.policy_table = [[[0.25, 0.25, 0.25, 0.25]] * env.width
+        self.policy_table = [[0.25,0.25,0.25,0.25] * env.width
                                     for _ in range(env.height)]
         # setting terminal state
         self.policy_table[2][2] = []
@@ -35,7 +38,6 @@ class PolicyIteration:
                           (reward + self.discount_factor * next_value))
 
             next_value_table[state[0]][state[1]] = round(value, 2)
-
         self.value_table = next_value_table
 
     def policy_improvement(self):
