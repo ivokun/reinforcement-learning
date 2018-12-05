@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 from environment import GraphicDisplay, Env
+import numpy as np
 
 class ValueIteration:
     def __init__(self, env):
         self.env = env
+        # self.random_value = np.random.rand()
         # 2-d list for the value function
         self.value_table = [[0.0] * env.width for _ in range(env.height)]
         self.discount_factor = 0.9
