@@ -1,4 +1,4 @@
-# Grid world with SARSA (State-Action-Reward-State'-Action')
+# Grid world with Q Learning
 
 ## Set an environment for agent
 
