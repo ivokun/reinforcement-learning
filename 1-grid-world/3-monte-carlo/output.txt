@@ -1,0 +1,5000 @@
+------------------
+episode: 0
+samples: 9
+finish: Collided
+------------------
+------------------
+episode: 1
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 2
+samples: 14
+finish: Collided
+------------------
+------------------
+episode: 3
+samples: 184
+finish: Finish
+------------------
+------------------
+episode: 4
+samples: 201
+finish: Collided
+------------------
+------------------
+episode: 5
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 6
+samples: 25
+finish: Finish
+------------------
+------------------
+episode: 7
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 8
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 9
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 10
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 11
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 12
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 13
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 14
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 15
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 16
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 17
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 18
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 19
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 20
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 21
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 22
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 23
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 24
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 25
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 26
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 27
+samples: 9
+finish: Finish
+------------------
+------------------
+episode: 28
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 29
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 30
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 31
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 32
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 33
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 34
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 35
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 36
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 37
+samples: 11
+finish: Collided
+------------------
+------------------
+episode: 38
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 39
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 40
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 41
+samples: 5
+finish: Collided
+------------------
+------------------
+episode: 42
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 43
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 44
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 45
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 46
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 47
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 48
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 49
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 50
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 51
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 52
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 53
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 54
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 55
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 56
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 57
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 58
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 59
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 60
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 61
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 62
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 63
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 64
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 65
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 66
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 67
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 68
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 69
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 70
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 71
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 72
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 73
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 74
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 75
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 76
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 77
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 78
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 79
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 80
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 81
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 82
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 83
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 84
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 85
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 86
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 87
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 88
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 89
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 90
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 91
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 92
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 93
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 94
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 95
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 96
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 97
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 98
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 99
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 100
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 101
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 102
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 103
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 104
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 105
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 106
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 107
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 108
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 109
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 110
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 111
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 112
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 113
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 114
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 115
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 116
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 117
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 118
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 119
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 120
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 121
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 122
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 123
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 124
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 125
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 126
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 127
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 128
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 129
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 130
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 131
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 132
+samples: 17
+finish: Finish
+------------------
+------------------
+episode: 133
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 134
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 135
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 136
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 137
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 138
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 139
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 140
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 141
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 142
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 143
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 144
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 145
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 146
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 147
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 148
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 149
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 150
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 151
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 152
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 153
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 154
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 155
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 156
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 157
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 158
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 159
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 160
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 161
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 162
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 163
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 164
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 165
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 166
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 167
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 168
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 169
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 170
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 171
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 172
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 173
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 174
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 175
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 176
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 177
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 178
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 179
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 180
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 181
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 182
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 183
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 184
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 185
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 186
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 187
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 188
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 189
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 190
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 191
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 192
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 193
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 194
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 195
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 196
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 197
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 198
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 199
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 200
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 201
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 202
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 203
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 204
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 205
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 206
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 207
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 208
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 209
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 210
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 211
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 212
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 213
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 214
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 215
+samples: 18
+finish: Finish
+------------------
+------------------
+episode: 216
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 217
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 218
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 219
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 220
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 221
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 222
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 223
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 224
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 225
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 226
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 227
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 228
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 229
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 230
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 231
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 232
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 233
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 234
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 235
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 236
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 237
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 238
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 239
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 240
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 241
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 242
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 243
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 244
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 245
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 246
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 247
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 248
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 249
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 250
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 251
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 252
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 253
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 254
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 255
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 256
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 257
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 258
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 259
+samples: 24
+finish: Finish
+------------------
+------------------
+episode: 260
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 261
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 262
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 263
+samples: 5
+finish: Collided
+------------------
+------------------
+episode: 264
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 265
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 266
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 267
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 268
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 269
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 270
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 271
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 272
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 273
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 274
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 275
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 276
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 277
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 278
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 279
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 280
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 281
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 282
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 283
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 284
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 285
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 286
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 287
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 288
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 289
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 290
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 291
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 292
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 293
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 294
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 295
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 296
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 297
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 298
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 299
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 300
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 301
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 302
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 303
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 304
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 305
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 306
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 307
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 308
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 309
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 310
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 311
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 312
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 313
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 314
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 315
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 316
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 317
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 318
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 319
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 320
+samples: 17
+finish: Finish
+------------------
+------------------
+episode: 321
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 322
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 323
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 324
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 325
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 326
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 327
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 328
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 329
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 330
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 331
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 332
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 333
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 334
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 335
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 336
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 337
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 338
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 339
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 340
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 341
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 342
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 343
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 344
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 345
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 346
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 347
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 348
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 349
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 350
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 351
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 352
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 353
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 354
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 355
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 356
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 357
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 358
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 359
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 360
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 361
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 362
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 363
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 364
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 365
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 366
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 367
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 368
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 369
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 370
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 371
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 372
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 373
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 374
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 375
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 376
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 377
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 378
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 379
+samples: 6
+finish: Finish
+------------------
+------------------
+episode: 380
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 381
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 382
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 383
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 384
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 385
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 386
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 387
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 388
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 389
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 390
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 391
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 392
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 393
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 394
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 395
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 396
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 397
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 398
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 399
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 400
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 401
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 402
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 403
+samples: 6
+finish: Finish
+------------------
+------------------
+episode: 404
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 405
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 406
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 407
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 408
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 409
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 410
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 411
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 412
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 413
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 414
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 415
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 416
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 417
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 418
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 419
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 420
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 421
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 422
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 423
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 424
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 425
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 426
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 427
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 428
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 429
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 430
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 431
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 432
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 433
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 434
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 435
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 436
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 437
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 438
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 439
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 440
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 441
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 442
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 443
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 444
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 445
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 446
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 447
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 448
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 449
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 450
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 451
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 452
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 453
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 454
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 455
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 456
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 457
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 458
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 459
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 460
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 461
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 462
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 463
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 464
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 465
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 466
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 467
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 468
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 469
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 470
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 471
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 472
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 473
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 474
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 475
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 476
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 477
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 478
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 479
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 480
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 481
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 482
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 483
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 484
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 485
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 486
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 487
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 488
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 489
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 490
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 491
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 492
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 493
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 494
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 495
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 496
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 497
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 498
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 499
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 500
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 501
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 502
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 503
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 504
+samples: 5
+finish: Collided
+------------------
+------------------
+episode: 505
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 506
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 507
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 508
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 509
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 510
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 511
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 512
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 513
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 514
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 515
+samples: 5
+finish: Collided
+------------------
+------------------
+episode: 516
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 517
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 518
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 519
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 520
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 521
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 522
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 523
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 524
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 525
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 526
+samples: 4
+finish: Collided
+------------------
+------------------
+episode: 527
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 528
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 529
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 530
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 531
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 532
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 533
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 534
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 535
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 536
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 537
+samples: 13
+finish: Collided
+------------------
+------------------
+episode: 538
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 539
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 540
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 541
+samples: 9
+finish: Finish
+------------------
+------------------
+episode: 542
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 543
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 544
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 545
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 546
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 547
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 548
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 549
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 550
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 551
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 552
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 553
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 554
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 555
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 556
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 557
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 558
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 559
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 560
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 561
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 562
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 563
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 564
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 565
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 566
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 567
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 568
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 569
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 570
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 571
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 572
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 573
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 574
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 575
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 576
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 577
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 578
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 579
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 580
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 581
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 582
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 583
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 584
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 585
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 586
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 587
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 588
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 589
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 590
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 591
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 592
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 593
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 594
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 595
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 596
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 597
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 598
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 599
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 600
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 601
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 602
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 603
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 604
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 605
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 606
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 607
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 608
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 609
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 610
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 611
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 612
+samples: 19
+finish: Finish
+------------------
+------------------
+episode: 613
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 614
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 615
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 616
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 617
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 618
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 619
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 620
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 621
+samples: 18
+finish: Finish
+------------------
+------------------
+episode: 622
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 623
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 624
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 625
+samples: 5
+finish: Collided
+------------------
+------------------
+episode: 626
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 627
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 628
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 629
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 630
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 631
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 632
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 633
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 634
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 635
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 636
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 637
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 638
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 639
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 640
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 641
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 642
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 643
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 644
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 645
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 646
+samples: 6
+finish: Collided
+------------------
+------------------
+episode: 647
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 648
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 649
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 650
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 651
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 652
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 653
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 654
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 655
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 656
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 657
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 658
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 659
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 660
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 661
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 662
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 663
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 664
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 665
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 666
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 667
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 668
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 669
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 670
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 671
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 672
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 673
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 674
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 675
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 676
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 677
+samples: 18
+finish: Finish
+------------------
+------------------
+episode: 678
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 679
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 680
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 681
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 682
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 683
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 684
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 685
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 686
+samples: 9
+finish: Finish
+------------------
+------------------
+episode: 687
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 688
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 689
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 690
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 691
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 692
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 693
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 694
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 695
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 696
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 697
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 698
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 699
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 700
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 701
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 702
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 703
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 704
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 705
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 706
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 707
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 708
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 709
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 710
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 711
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 712
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 713
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 714
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 715
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 716
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 717
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 718
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 719
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 720
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 721
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 722
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 723
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 724
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 725
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 726
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 727
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 728
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 729
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 730
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 731
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 732
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 733
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 734
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 735
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 736
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 737
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 738
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 739
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 740
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 741
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 742
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 743
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 744
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 745
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 746
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 747
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 748
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 749
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 750
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 751
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 752
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 753
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 754
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 755
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 756
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 757
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 758
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 759
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 760
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 761
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 762
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 763
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 764
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 765
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 766
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 767
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 768
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 769
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 770
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 771
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 772
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 773
+samples: 4
+finish: Collided
+------------------
+------------------
+episode: 774
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 775
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 776
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 777
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 778
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 779
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 780
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 781
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 782
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 783
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 784
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 785
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 786
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 787
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 788
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 789
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 790
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 791
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 792
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 793
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 794
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 795
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 796
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 797
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 798
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 799
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 800
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 801
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 802
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 803
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 804
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 805
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 806
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 807
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 808
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 809
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 810
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 811
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 812
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 813
+samples: 5
+finish: Collided
+------------------
+------------------
+episode: 814
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 815
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 816
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 817
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 818
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 819
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 820
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 821
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 822
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 823
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 824
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 825
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 826
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 827
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 828
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 829
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 830
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 831
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 832
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 833
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 834
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 835
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 836
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 837
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 838
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 839
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 840
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 841
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 842
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 843
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 844
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 845
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 846
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 847
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 848
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 849
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 850
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 851
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 852
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 853
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 854
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 855
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 856
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 857
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 858
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 859
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 860
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 861
+samples: 18
+finish: Finish
+------------------
+------------------
+episode: 862
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 863
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 864
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 865
+samples: 17
+finish: Finish
+------------------
+------------------
+episode: 866
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 867
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 868
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 869
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 870
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 871
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 872
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 873
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 874
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 875
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 876
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 877
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 878
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 879
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 880
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 881
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 882
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 883
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 884
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 885
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 886
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 887
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 888
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 889
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 890
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 891
+samples: 7
+finish: Collided
+------------------
+------------------
+episode: 892
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 893
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 894
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 895
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 896
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 897
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 898
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 899
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 900
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 901
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 902
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 903
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 904
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 905
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 906
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 907
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 908
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 909
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 910
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 911
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 912
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 913
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 914
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 915
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 916
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 917
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 918
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 919
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 920
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 921
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 922
+samples: 15
+finish: Finish
+------------------
+------------------
+episode: 923
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 924
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 925
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 926
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 927
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 928
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 929
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 930
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 931
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 932
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 933
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 934
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 935
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 936
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 937
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 938
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 939
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 940
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 941
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 942
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 943
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 944
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 945
+samples: 16
+finish: Finish
+------------------
+------------------
+episode: 946
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 947
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 948
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 949
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 950
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 951
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 952
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 953
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 954
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 955
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 956
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 957
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 958
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 959
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 960
+samples: 8
+finish: Finish
+------------------
+------------------
+episode: 961
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 962
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 963
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 964
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 965
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 966
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 967
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 968
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 969
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 970
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 971
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 972
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 973
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 974
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 975
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 976
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 977
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 978
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 979
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 980
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 981
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 982
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 983
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 984
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 985
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 986
+samples: 13
+finish: Finish
+------------------
+------------------
+episode: 987
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 988
+samples: 11
+finish: Finish
+------------------
+------------------
+episode: 989
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 990
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 991
+samples: 3
+finish: Collided
+------------------
+------------------
+episode: 992
+samples: 12
+finish: Finish
+------------------
+------------------
+episode: 993
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 994
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 995
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 996
+samples: 10
+finish: Finish
+------------------
+------------------
+episode: 997
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 998
+samples: 14
+finish: Finish
+------------------
+------------------
+episode: 999
+samples: 11
+finish: Finish
+------------------

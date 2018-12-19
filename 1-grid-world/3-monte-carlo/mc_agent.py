@@ -2,6 +2,7 @@ import numpy as np
 import random
 from collections import defaultdict
 from environment import Env
+import matplotlib.pyplot as plt
 
 
 # Monte Carlo Agent which learns every episodes from the sample
@@ -82,12 +83,19 @@ class MCAgent:
             next_state[3] = self.value_table[str(state)]
 
         return next_state
+    
+    # get number of collected samples
+    def get_num_samples(self):
+        return len(self.samples)
 
 
 # main loop
 if __name__ == "__main__":
     env = Env()
     agent = MCAgent(actions=list(range(env.n_actions)))
+    output_txt = []
+    output_episodes = []
+    output_samples = []
 
     for episode in range(1000):
         state = env.reset()
@@ -99,13 +107,34 @@ if __name__ == "__main__":
             # forward to next state. reward is number and done is boolean
             next_state, reward, done = env.step(action)
             agent.save_sample(next_state, reward, done)
+            # print(f"Next state: {next_state}, Reward: {reward}")
 
             # get next action
             action = agent.get_action(next_state)
 
             # at the end of each episode, update the q function table
             if done:
-                print("episode : ", episode)
+                print("-----------------------")
+                print("episode           : ", episode)
+                print("number of samples : ", agent.get_num_samples())
+                if reward == -100:
+                    print("Collided")
+                    finish_when = "Collided"
+                else:
+                    print("Finish")
+                    finish_when = "Finish"
+                print("-----------------------")
+                output_txt.append({'episode': str(episode), 'samples': str(agent.get_num_samples()), 'finish': finish_when})
+                output_episodes.append(episode)
+                output_samples.append(agent.get_num_samples())
                 agent.update()
                 agent.samples.clear()
                 break
+    plt.plot(output_episodes, output_samples, 'r')
+    plt.show()
+    with open("output.txt", "w") as file:
+        for item in output_txt:
+            file.write('------------------\n')
+            for key, value in item.items():
+                file.write(key + ': '+ value +'\n')
+            file.write('------------------\n')
