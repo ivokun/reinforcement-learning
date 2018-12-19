@@ -2,6 +2,7 @@ import numpy as np
 import random
 from collections import defaultdict
 from environment import Env
+import matplotlib.pyplot as plt
 
 
 # SARSA agent learns every time step from the sample <s, a, r, s', a'>
@@ -49,17 +50,19 @@ class SARSAgent:
 if __name__ == "__main__":
     env = Env()
     agent = SARSAgent(actions=list(range(env.n_actions)))
+    output_episodes = []
+    output_steps = []
 
     for episode in range(1000):
         # reset environment and initialize state
-
+        steps = 0
         state = env.reset()
         # get action of state from agent
         action = agent.get_action(str(state))
 
         while True:
             env.render()
-
+            steps += 1
             # take action and proceed one step in the environment
             next_state, reward, done = env.step(action)
             next_action = agent.get_action(str(next_state))
@@ -72,8 +75,14 @@ if __name__ == "__main__":
 
             # print q function of all states at screen
             env.print_value_all(agent.q_table)
-
             # if episode ends, then break
             if done:
                 break
+        output_episodes.append(episode)
+        output_steps.append(steps)
+        print(steps, episode)
+
+    input()
+    plt.plot(episode, steps, 'r--')
+    plt.show()
 
