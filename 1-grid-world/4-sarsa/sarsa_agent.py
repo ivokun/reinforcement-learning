@@ -83,6 +83,6 @@ if __name__ == "__main__":
         print(steps, episode)
 
     input()
-    plt.plot(episode, steps, 'r--')
+    plt.plot(output_episodes, output_steps, 'r--')
     plt.show()
 

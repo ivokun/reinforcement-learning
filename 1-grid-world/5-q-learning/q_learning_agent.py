@@ -3,6 +3,8 @@ import random
 from environment import Env
 from collections import defaultdict
 
+import matplotlib.pyplot as plt
+
 class QLearningAgent:
     def __init__(self, actions):
         # actions = [0, 1, 2, 3]
@@ -48,11 +50,19 @@ if __name__ == "__main__":
     env = Env()
     agent = QLearningAgent(actions=list(range(env.n_actions)))
 
+    output_episodes = []
+    output_steps = []
+
     for episode in range(1000):
         state = env.reset()
 
+        steps = 0
+
         while True:
             env.render()
+
+            steps += 1
+
 
             # take action and proceed one step in the environment
             action = agent.get_action(str(state))
@@ -67,3 +77,10 @@ if __name__ == "__main__":
             # if episode ends, then break
             if done:
                 break
+        output_episodes.append(episode)
+        output_steps.append(steps)
+        print(steps, episode)
+
+    input()
+    plt.plot(output_episodes, output_steps, 'r--')
+    plt.show()
