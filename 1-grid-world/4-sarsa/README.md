@@ -47,9 +47,9 @@ new_q = (current_q + self.learning_rate * (reward + self.discount_factor * next_
 
 This experiment to see how this program will run when introduce one more obstacle near goal. We run the program with 1000 episodes and compare to the environment with just two of obstacles. 
 
-<p align="center"><img width="50%" src="../../images/mc_1000.png"></p>
+<p align="center"><img width="50%" src="../../images/sarsa_1000.png"></p>
 <p align="center">Two obstacles<p>
 <p align="center"><img width="50%" src="../../images/sarsa_1000_obstacle.png"></p>
 <p align="center">Three obstacles<p>
 
-Surprisingly, the agent in three obstacles environment perform well and take less steps than when it in just two obstacles. The agent take route head bottom rather than going to right side of starting point. When it found finish, it become more aware of shortest path to finish because of value update. But, the agent is struggling when reach into 100 steps. Because of updating after it finish, it knows the bigger value in each step near finish. The agent will keep exploit it until finish all episodes.
+Surprisingly, the agent in three obstacles environment perform well and take less steps than when it in just two obstacles. The agent takes route head bottom rather than going to right side of starting point. When it found finish, it becomes more aware of shortest path to finish because of value update. The agent struggles to find finish in both environment before 200 episodes. But after find a finish and updating more and more q function table using SARS'A', it becomes more flatline in both environment.
